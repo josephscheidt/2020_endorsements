@@ -71,15 +71,15 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 2019-03-07,attorney general,,DC,Karl Racine,Kamala Harris,D,https://www.washingtonpost.com/local/dc-politics/dc-attorney-general-karl-racine-endorses-kamala-harris-for-president/2019/03/07/bd43b860-40e2-11e9-9361-301ffb5bd5e6_story.html?utm_term=.4ebee8be575d,236,Statewide officeholders,,,2
 2019-03-07,mayor,Long Beach,CA,Robert Garcia,Kamala Harris,D,https://www.mercurynews.com/2019/03/07/kamala-harris-california-mayors-liccardo-breed-endorsement/,38,Mayors,,,3
 2019-03-07,mayor,Sacramento,CA,Darrell Steinberg,Kamala Harris,D,https://www.mercurynews.com/2019/03/07/kamala-harris-california-mayors-liccardo-breed-endorsement/,34,Mayors,,,3
+2019-03-07,mayor,Denver,CO,Michael Hancock,John Hickenlooper,D,https://www.cnn.com/2019/03/07/politics/hickenlooper-2020-launch/index.html,19,Mayors,,,3
 2019-03-07,mayor,San Jose,CA,Sam Liccardo,Kamala Harris,D,https://www.mercurynews.com/2019/03/07/kamala-harris-california-mayors-liccardo-breed-endorsement/,10,Mayors,,,3
-,DNC member,,NY,Ai-Jen Poo,,D,,,DNC members,,,1
-,DNC member,,SC,Carol K. Fowler,,D,,,DNC members,,,1
-,DNC member,,SC,Don Fowler,,D,,,DNC members,,,1
-,DNC member,,SC,Gilda Cobb-Hunter,,D,,,DNC members,,,1
-,DNC member,,RI,Joseph R. Paolino Jr.,,D,,,DNC members,,,1
-,DNC member,,RI,Rep Joseph M. McNamara,,D,,,DNC members,,,1
-,DNC member,,RI,Edna O'Neill Mattson,,D,,,DNC members,,,1
-,DNC member,,RI,Grace Diaz,,D,,,DNC members,,,1
+2019-03-11,representative,,TX,Vicente Gonzalez,Julian Castro,D,https://www.dallasnews.com/news/elections-2020/2019/03/11/2-texas-dems-castro-orourke-likely-white-house-race-will-texans-congress-back,,Representatives,,15,3
+2019-03-14,representative,,TX,Veronica Escobar,Beto O'Rourke,D,https://www.texastribune.org/2019/03/14/beto-orourke-4-members-congress-endorse-within-hours/,,Representatives,,16,3
+2019-03-14,representative,,NY,Sean Patrick Maloney,Beto O'Rourke,D,https://twitter.com/scottwongDC/status/1106285969530126337,,Representatives,,18,3
+2019-03-14,representative,,NY,Kathleen Rice,Beto O'Rourke,D,https://twitter.com/KathleenRice/status/1106178817335455744,,Representatives,,4,3
+2019-03-14,representative,,FL,Stephanie Murphy,Beto O'Rourke,D,https://twitter.com/SMurphyCongress/status/1106234016477446145?s=19,,Representatives,,7,3
+2019-03-17,representative,,NY,Carolyn Maloney,Kirsten Gillibrand,D,https://twitter.com/carolynbmaloney/status/1107390398459248640?s=21,,Representatives,,12,3
+,DNC member,,NY,Jay S. Jacobs,,D,,,DNC members,,,1
 ,DNC member,,PR,Johanne M. Velez,,D,,,DNC members,,,1
 ,DNC member,,PR,Charles A. Rodriguez,,D,,,DNC members,,,1
 ,DNC member,,PR,Manuel Ortiz,,D,,,DNC members,,,1
@@ -120,11 +120,10 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,DNC member,,NY,Gerard J. Sweeney,,D,,,DNC members,,,1
 ,DNC member,,NY,Michael Reich,,D,,,DNC members,,,1
 ,DNC member,,NY,Christine Quinn,,D,,,DNC members,,,1
-,DNC member,,SC,Jaime R. Harrison,,D,,,DNC members,,,1
+,DNC member,,NY,Ai-Jen Poo,,D,,,DNC members,,,1
 ,DNC member,,NY,Christopher Lowe,,D,,,DNC members,,,1
 ,DNC member,,NY,Charlie King,,D,,,DNC members,,,1
-,DNC member,,NY,Jay S. Jacobs,,D,,,DNC members,,,1
-,DNC member,,NY,Carl Heastie,,D,,,DNC members,,,1
+,DNC member,,RI,Grace Diaz,,D,,,DNC members,,,1
 ,DNC member,,NY,Emily Giske,,D,,,DNC members,,,1
 ,DNC member,,NY,Hector Figueroa,,D,,,DNC members,,,1
 ,DNC member,,NY,Hazel Duke,,D,,,DNC members,,,1
@@ -590,8 +589,6 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,representative,,TX,Sylvia R. Garcia,,D,,,Representatives,,29,3
 ,representative,,TX,Henry Cuellar,,D,,,Representatives,,28,3
 ,representative,,TX,Sheila Jackson Lee,,D,,,Representatives,,18,3
-,representative,,TX,Veronica Escobar,,D,,,Representatives,,16,3
-,representative,,TX,Vicente Gonzalez,,D,,,Representatives,,15,3
 ,representative,,TX,Al Green,,D,,,Representatives,,9,3
 ,representative,,TX,Lizzie Pannill Fletcher,,D,,,Representatives,,7,3
 ,representative,,TN,Steve Cohen,,D,,,Representatives,,9,3
@@ -622,13 +619,11 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,representative,,NY,Anthony Brindisi,,D,,,Representatives,,22,3
 ,representative,,NY,Paul D. Tonko,,D,,,Representatives,,20,3
 ,representative,,NY,Antonio Delgado,,D,,,Representatives,,19,3
-,representative,,NY,Sean Patrick Maloney,,D,,,Representatives,,18,3
 ,representative,,NY,Nita Lowey,,D,,,Representatives,,17,3
 ,representative,,NY,Eliot Engel,,D,,,Representatives,,16,3
 ,representative,,NY,José E. Serrano,,D,,,Representatives,,15,3
 ,representative,,NY,Alexandria Ocasio-Cortez,,D,,,Representatives,,14,3
 ,representative,,NY,Adriano Espaillat,,D,,,Representatives,,13,3
-,representative,,NY,Carolyn Maloney,,D,,,Representatives,,12,3
 ,representative,,NY,Max N. Rose,,D,,,Representatives,,11,3
 ,representative,,NY,Jerrold Nadler,,D,,,Representatives,,10,3
 ,representative,,NY,Yvette D. Clarke,,D,,,Representatives,,9,3
@@ -636,7 +631,6 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,representative,,NY,Nydia M. Velázquez,,D,,,Representatives,,7,3
 ,representative,,NY,Grace Meng,,D,,,Representatives,,6,3
 ,representative,,NY,Gregory W. Meeks,,D,,,Representatives,,5,3
-,representative,,NY,Kathleen Rice,,D,,,Representatives,,4,3
 ,representative,,NY,Thomas Suozzi,,D,,,Representatives,,3,3
 ,representative,,NV,Steven A. Horsford,,D,,,Representatives,,4,3
 ,representative,,NV,Susie Lee,,D,,,Representatives,,3,3
@@ -714,7 +708,6 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,representative,,FL,Charlie Crist,,D,,,Representatives,,13,3
 ,representative,,FL,Val Demings,,D,,,Representatives,,10,3
 ,representative,,FL,Darren Soto,,D,,,Representatives,,9,3
-,representative,,FL,Stephanie Murphy,,D,,,Representatives,,7,3
 ,representative,,FL,Al Lawson,,D,,,Representatives,,5,3
 ,representative,,DE,Lisa Blunt Rochester,,D,,,Representatives,,0,3
 ,delegate,,DC,Eleanor Holmes Norton,,D,,,Representatives,,0,3
@@ -799,7 +792,6 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,mayor,Nashville,TN,David Briley,,D,,23,Mayors,,,3
 ,mayor,Detroit,MI,Mike Duggan,,D,,22,Mayors,,,3
 ,mayor,Boston,MA,Marty Walsh,,D,,20,Mayors,,,3
-,mayor,Denver,CO,Michael Hancock,,D,,19,Mayors,,,3
 ,mayor,Seattle,WA,Jenny Durkan,,D,,18,Mayors,,,3
 ,mayor,Charlotte,NC,Vi Lyles,,D,,17,Mayors,,,3
 ,mayor,Indianapolis,IN,Joe Hogsett,,D,,16,Mayors,,,3
@@ -902,6 +894,13 @@ date,position,city,state,endorser,endorsee,endorser party,source,order,category,
 ,U.S. House majority leader,,MD,Steny Hoyer,,D,,,Current party leaders,,,10
 ,U.S. Senate Democratic whip,,IL,Richard J. Durbin,,D,,,Current party leaders,,,10
 ,U.S. House speaker,,CA,Nancy Pelosi,,D,,,Current party leaders,,,10
+,DNC member,,RI,Edna O'Neill Mattson,,D,,,DNC members,,,1
+,DNC member,,RI,Rep Joseph M. McNamara,,D,,,DNC members,,,1
+,DNC member,,RI,Joseph R. Paolino Jr.,,D,,,DNC members,,,1
+,DNC member,,SC,Gilda Cobb-Hunter,,D,,,DNC members,,,1
+,DNC member,,SC,Don Fowler,,D,,,DNC members,,,1
+,DNC member,,SC,Carol K. Fowler,,D,,,DNC members,,,1
+,DNC member,,SC,Jaime R. Harrison,,D,,,DNC members,,,1
 ,DNC member,,SC,Lessie Price,,D,,,DNC members,,,1
 ,DNC member,,SC,Travis Robertson Jr.,,D,,,DNC members,,,1
 ,DNC member,,SD,Deb J. Knecht,,D,,,DNC members,,,1
